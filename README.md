@@ -26,3 +26,5 @@ Low-fidelity and high-fidelity wireframes are two types of visual guides used in
 <h3>Figma</h3>
 <li>Figma is a collaborative, web-based design and prototyping tool that's become a standard for UI/UX designers. It allows multiple people to work on the same file simultaneously, making it great for team projects. It's useful for wireframing because it provides a flexible environment with features that streamline the process from low-fidelity concepts to more detailed designs.</li>
 
+<h4>During the wireframing and prototyping phase, usability testing revealed significant friction. Testers were confused by the navigation, often getting lost between screens. A key issue was the disconnect between the transaction history and the bill-splitting function. Users expected to initiate the split directly from the transaction detail, not from a separate menu. Another problem was the cognitive load of having three separate screens for a single task; it felt cumbersome and slow.</h4>
+
