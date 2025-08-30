@@ -21,5 +21,5 @@ Low-fidelity and high-fidelity wireframes are two types of visual guides used in
 
 
 
-<p>It a high fidelity wireframes because it contain more architectural plan and details.</p>
+<h4>It a high fidelity wireframes because it contain more architectural plan and details.</h4>
 
