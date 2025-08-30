@@ -4,17 +4,16 @@ Wireframing is the process of creating a simplified, visual representation of a 
 
 Wireframing is a crucial step in the design process for several reasons:
 
-<li>
-  <ul>Clarifies Structure and Functionality: By creating a wireframe, designers can lay out the core structure of a product, ensuring that all necessary components and features are included and logically arranged. This helps to identify potential usability issues early on, before any significant time or resources are spent on visual design.</ul>
+
+  <li>Clarifies Structure and Functionality: By creating a wireframe, designers can lay out the core structure of a product, ensuring that all necessary components and features are included and logically arranged. This helps to identify potential usability issues early on, before any significant time or resources are spent on visual design.</li>
 
 
-<ul>Facilitates Collaboration: Wireframes serve as a universal language for stakeholders, developers, and designers. They provide a clear and simple reference point that allows for easy discussion and feedback on the layout and user flow. This collaborative process ensures everyone is aligned on the product's fundamental structure and goals.</ul>
+<li>Facilitates Collaboration: Wireframes serve as a universal language for stakeholders, developers, and designers. They provide a clear and simple reference point that allows for easy discussion and feedback on the layout and user flow. This collaborative process ensures everyone is aligned on the product's fundamental structure and goals.</li>
 
 
-<ul>Saves Time and Resources: Making changes to a low-fidelity wireframe is far quicker and more cost-effective than altering a high-fidelity design or a live product. Wireframing allows for rapid iteration and testing of different layouts, helping to validate design decisions early in the process and prevent costly rework later on.</ul>
+<li>Saves Time and Resources: Making changes to a low-fidelity wireframe is far quicker and more cost-effective than altering a high-fidelity design or a live product. Wireframing allows for rapid iteration and testing of different layouts, helping to validate design decisions early in the process and prevent costly rework later on.</li>
 
 
-<ul>Enhances User Experience (UX): A well-thought-out wireframe prioritizes the user's journey. By mapping out the navigation and content flow, designers can create a more intuitive and user-friendly experience. This focus on usability at the foundational level leads to a more successful and engaging final product.</ul>
-</li>
+<li>Enhances User Experience (UX): A well-thought-out wireframe prioritizes the user's journey. By mapping out the navigation and content flow, designers can create a more intuitive and user-friendly experience. This focus on usability at the foundational level leads to a more successful and engaging final product.</li>
 
 
