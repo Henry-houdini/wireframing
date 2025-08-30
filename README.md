@@ -16,4 +16,8 @@ Wireframing is a crucial step in the design process for several reasons:
 
 <li>Enhances User Experience (UX): A well-thought-out wireframe prioritizes the user's journey. By mapping out the navigation and content flow, designers can create a more intuitive and user-friendly experience. This focus on usability at the foundational level leads to a more successful and engaging final product.</li>
 
+<h3>Types of Wireframes</h3>
+Low-fidelity and high-fidelity wireframes are two types of visual guides used in the design process, differing in their level of detail, realism, and purpose. Think of it like creating a blueprint for a building: you start with a rough sketch and then move to a detailed architectural plan.
+
+It a high fidelity wireframes because it contain more architectural plan and details.
 
