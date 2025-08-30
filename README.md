@@ -19,5 +19,7 @@ Wireframing is a crucial step in the design process for several reasons:
 <h3>Types of Wireframes</h3>
 Low-fidelity and high-fidelity wireframes are two types of visual guides used in the design process, differing in their level of detail, realism, and purpose. Think of it like creating a blueprint for a building: you start with a rough sketch and then move to a detailed architectural plan.
 
+
+
 It a high fidelity wireframes because it contain more architectural plan and details.
 
